@@ -12,7 +12,7 @@
 ### Установка
 - Клонируйте репозиторий (если применимо):
 ```bash
-git clone https://github.com/ваш_пользователь/shape-area-calculator.git
+git clone https://github.com/atomsis/mindbox.git
 ```
 - Перейдите в каталог проекта:
 ```bash
